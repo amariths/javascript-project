@@ -1,0 +1,42 @@
+img {
+    width: 100px;
+}
+
+#divform {
+    margin: 10%;
+}
+
+.container {
+    margin: 5%;
+}
+
+#anothersite > a {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* utrymme till forms */
+#post {
+    margin-bottom: 15%;
+}
+
+#put {
+    margin-bottom: 15%;
+}
+
+
+
+#firstname {
+    margin-bottom: 10%;
+}
+
+#divform2 {
+    margin: 10%;
+}
+
+h1 {
+    text-align: center;
+}
